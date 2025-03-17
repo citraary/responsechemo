@@ -1,0 +1,5 @@
+streamlit
+pandas
+scikit-learn
+pickle-mixin
+openpyxl  # This is needed to read Excel files with pandas
